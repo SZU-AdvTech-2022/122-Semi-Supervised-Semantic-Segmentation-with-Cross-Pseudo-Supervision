@@ -1,0 +1,7 @@
+@inproceedings{REPO-123,
+    author = "Chen, Xiaokang and Yuan, Yuhui and Zeng, Gang and Wang, Jingdong",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "2613--2622",
+    title = "{Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision}",
+    year = "2021"
+}
